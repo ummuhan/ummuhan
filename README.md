@@ -1,6 +1,6 @@
 ## Hi there, I'm Ümmühan. 🦄 👋🏻
 
-## I'm junior developer, medium writer. 🤓
+## I'm developer and medium writer. 🤓
 
 - 💁🏼‍♀️ I write articles on Medium.
 - 👩🏻‍🎓 I am a newly graduated computer engineer.
